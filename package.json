@@ -1,0 +1,10 @@
+{
+	"name"        : "vifros",
+	"version"     : "0.0.0",
+	"description" : "",
+	"private"     : true,
+	"dependencies": {
+		"vifros-api": "git+https://github.com/vifros/vifros-api.git",
+		"vifros-cli": "git+https://github.com/vifros/vifros-cli.git"
+	}
+}

@@ -1,0 +1,1 @@
+# vifros wrapper / updater for all the rest of vifros packages (api, cli, web).
